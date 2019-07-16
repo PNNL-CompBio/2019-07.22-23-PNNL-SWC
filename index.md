@@ -182,7 +182,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="register">Registration</h2>
 
-Registration for this special event for women and underrepresented minorities is by invite-only. If you have not received an invitation and you think you  would like to attend, please contact Ann-Wright Mockler <Ann.WrightMockler@pnnl.gov>
+Registration for this special event for women and underrepresented minorities is by invite-only. If you have not received an invitation and you think you  would like to attend, please contact Ann Wright-Mockler <Ann.WrightMockler@pnnl.gov> and Elizabeth Stephens<elizabeth.stephens@pnnl.gov>
 <hr/>
 
 {% comment %} 
