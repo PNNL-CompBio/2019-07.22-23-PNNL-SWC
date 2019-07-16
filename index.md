@@ -182,11 +182,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="register">Registration</h2>
 
-Registration for this special event is by invite-only. If you think you  would like to attend, please contact Ann-Wright Mockler <Ann.WrightMockler@pnnl.gov>
+Registration for this special event for women and underrepresented minorities is by invite-only. If you think you  would like to attend, please contact Ann-Wright Mockler <Ann.WrightMockler@pnnl.gov>
 <hr/>
 
 {% comment %} 
- SURVEYS - DO NOT EDIT SURVEY LINKS 
+ SURVEYS - DO NOT EDIT SURVEY LINKS
+ 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 
