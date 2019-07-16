@@ -20,3 +20,35 @@ Jeremy
 
 
 
+Hi @davidrpugh 
+
+I am glad that you share my desire to move away from Matplotlib episode and I cannot deny that I too initially found the syntax of plotnine a bit unintuitive.  But my confusion did not stem from its similarity to R (plotnine's syntax is actually quite pythonic), it stemmed from my struggle to grok the concept of a [grammar of graphics](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149). Once I mastered this organizing principle, it became  **much** easier for me to pick up other grammar of graphics-based tools such as plotly, bokeh, seaborn, altair, etc. 
+
+> Is there a strong desire within the community to align the R and Python lessons as much as possible?
+
+Well to be fair, it has been 2 and a half years since I [ported the
+data ecology plotting lesson from R to
+python](https://github.com/datacarpentry/python-ecology-lesson/pull/96),
+but from what I recall of our discussions,
+the prevailing argument was that aligning the R and python lessons
+would reduce cognitive load for multi-language learners and would in
+general improve long term lesson maintainability.  With that said, the carpentries community has grown a lot since then, and opinions may have changed with more information.   @gvwilson  @maxim-belkin @rgaiacs  what are your current thoughts on this topic?  Here is a link to my 
+[ port of the R gapminder plotting episode to python](https://nbviewer.jupyter.org/github/PNNL-CompBio/2019-03.14-15-PNNL-SWC/blob/gh-pages/Notebooks/Plotting%20with%20Plotnine.ipynb).
+
+Sincerely,
+
+Jeremy
+
+
+
+Hi @davidrpugh 
+I am glad that you share my desire to move away from Matplotlib episode and I too initially found the syntax of plotnine a bit confusing.  But that discomfort did not stem from its similarity to R (plotnine's syntax is actually quite pythonic), it stemmed from my struggle to grok the concept of a [grammar of graphics](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149).  In terms of organizing principles and motivation, absorbing this concept made it **much** easier for me to pick up other GoG tools such as plotly, bokeh, seaborn, altair, etc.  
+
+> Is there a strong desire within the community to align the R and Python lessons as much as possible?
+
+Well to be fair, the carpentries community is more than one person and a lot has changed in the last 2 and a half years since I [ported the data ecology plotting lesson from R to python](https://github.com/datacarpentry/python-ecology-lesson/pull/96), but back then @gvwilson felt strongly that aligning the R and python lessons as much as possible would  reduce cognitive load for R-to-python learners and in general improve lesson maintainability long term.   Greg, I can't seem to find the chat where I recall you saying these things, but does my characterization of your stance  comport with your recollection and if so, do you still feel this way?
+
+Sincerely,
+
+Jeremy
+
